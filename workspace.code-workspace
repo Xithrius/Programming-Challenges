@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+	],
+	"settings": {
+		"editor.formatOnSave": false,
+		"editor.cursorBlinking": "expand",
+		"python.linting.pep8Enabled": true,
+		"editor.autoClosingBrackets": "always",
+		"editor.autoClosingQuotes": "always",
+		"python.linting.pep8Args": [
+			"--ignore=E501",
+			"--max-line-length=500"
+		]
+	}
+}
