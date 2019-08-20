@@ -1,0 +1,13 @@
+{
+    "format": "bestaudio/best",
+    "outtmpl": "output/%(extractor)s-%(id)s-%(title)s.mp3",
+    "restrictfilenames": true,
+    "noplaylist": true,
+    "nocheckcertificate": true,
+    "ignoreerrors": false,
+    "logtostderr": false,
+    "quiet": false,
+    "no_warnings": false,
+    "default_search": "auto",
+    "source_address": "0.0.0.0"
+}
