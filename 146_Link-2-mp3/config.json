@@ -1,6 +1,6 @@
 {
     "format": "bestaudio/best",
-    "outtmpl": "output/%(extractor)s-%(id)s-%(title)s.mp3",
+    "outtmpl": "output/%(title)s.mp3",
     "restrictfilenames": true,
     "noplaylist": true,
     "nocheckcertificate": true,

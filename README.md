@@ -62,5 +62,8 @@
 - [ ] 22. Sound Synthesis along Realtime MIDI playback with Custom Instruments
 - [ ] 37. Basic Relational Database Software (SQL Support, Handle Relationships, Focus on Efficiency)
 
+#### Really Easy:
+- [x] 146. YouTube link to mp3 conversion
+
 
 And more to come in the future, after these are done.
